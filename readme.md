@@ -1,3 +1,3 @@
-# Git and Github course
+# Testing SSH Key
 
-Crash course for Git
+Testing SSH Key
